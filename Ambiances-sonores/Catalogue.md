@@ -1,6 +1,7 @@
 # Catalogue d'ambiances sonores
 
-Références de paysages sonores, atmosphères et environnements audio.
+#### Références de paysages sonores, atmosphères et environnements audio.  
+#### Forêts, villes, espaces imaginaires, atmosphères, etc.
 
 ## Entrée type
 
